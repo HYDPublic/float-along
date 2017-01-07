@@ -1,2 +1,2 @@
-# match3-game
-As-of-yet untitled game for my first game jam!!
+# Float along
+For my first game jam!!
